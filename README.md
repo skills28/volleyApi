@@ -20,7 +20,7 @@ AUTO_INCREMENT=9
 ;
 
 ```
-### > conn.php file
+> ### conn.php file
 
 ```php
 
@@ -42,7 +42,7 @@ if ($conn->connect_error) {
 ?>
 
 ```
-### > insert.php
+> ### insert.php
 
 ```php
 
@@ -88,7 +88,7 @@ $conn->close();
 
 ```
 
-### > list.php
+> ### list.php
 
 ```php 
 
