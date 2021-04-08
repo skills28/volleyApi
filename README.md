@@ -4,7 +4,7 @@
 - Mysql Version ~~**5.3.8**~~
 - Laragon (https://laragon.org/)
 
-### >database table
+> ### database table
 
 ```mysql
 
